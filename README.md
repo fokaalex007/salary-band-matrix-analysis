@@ -24,8 +24,4 @@ This project explores salary distribution across job categories, cities, seniori
 ## Sample Insight
 > “Remote roles show a higher proportion of mid-to-high salaries compared to onsite roles, suggesting that flexibility may correlate with compensation.”
 
-## Next Steps
-- Build interactive Power BI dashboard
-- Enrich dataset with manual industry tagging and external sources
-- Publish SQL/Python scripts for automation and reproducibility
 
