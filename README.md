@@ -35,25 +35,31 @@ This project explores salary distribution across job categories, cities, seniori
 ### 2. Job Category Distribution by City
 - New York leads in job volume, especially in Analytics/BI.
 - San Francisco shows strong representation in Data Science.
+- [images/pivots/category vs city.PNG](https://github.com/fokaalex007/salary-band-matrix-analysis/blob/79f382a4aaca855576d81b3ba7b64de8ef45634b/images/pivots/category%20vs%20city.PNG)
 
 ### 3. Salary Band Distribution by Category
 - Most roles fall in the Mid band ($60k–$90k).
 - Data Science has the highest proportion of high-band jobs relative to its size.
+- https://github.com/fokaalex007/salary-band-matrix-analysis/blob/79f382a4aaca855576d81b3ba7b64de8ef45634b/images/pivots/category%20vs%20salary%20band.PNG
 
 ### 4. Salary Band Distribution by City
 - San Francisco and San Diego show high-band dominance.
 - New York has broader distribution, with more mid/low-band roles.
+- https://github.com/fokaalex007/salary-band-matrix-analysis/blob/79f382a4aaca855576d81b3ba7b64de8ef45634b/images/pivots/city%20vs%20salary%20band.PNG
 
 ### 5. Salary Band Distribution by Industry
 - Unclassified industries skew toward lower bands.
 - Tech and finance industries show stronger high-band representation.
+- https://github.com/fokaalex007/salary-band-matrix-analysis/blob/79f382a4aaca855576d81b3ba7b64de8ef45634b/images/pivots/industry%20vs%20salary%20band.PNG
 
 ### 6. Job Count by Category
 - Analytics/BI dominates with 1406 listings — nearly 3x the volume of Data Engineering or Data Science.
+- https://github.com/fokaalex007/salary-band-matrix-analysis/blob/79f382a4aaca855576d81b3ba7b64de8ef45634b/images/pivots/job%20count.PNG
 
 ### 7. Remote vs Onsite Salary Banding
 - Remote roles skew toward mid/high bands despite lower volume.
 - Onsite roles dominate in volume but have broader salary spread.
+- https://github.com/fokaalex007/salary-band-matrix-analysis/blob/79f382a4aaca855576d81b3ba7b64de8ef45634b/images/pivots/remote%20friendly%20vs%20salary%20%20band.PNG
 
 ### 8. Salary Band Totals
 - Mid band ($60k–$90k) is the most common, followed by Low (<$60k) and High (>$90k).
@@ -62,6 +68,7 @@ This project explores salary distribution across job categories, cities, seniori
 - Mid-level roles dominate in volume and salary spread.
 - Senior roles show higher high-band concentration.
 - Junior roles are few and mostly low-band.
+- https://github.com/fokaalex007/salary-band-matrix-analysis/blob/79f382a4aaca855576d81b3ba7b64de8ef45634b/images/pivots/salary%20band%20vs%20seniority.PNG
 
 ---
 
