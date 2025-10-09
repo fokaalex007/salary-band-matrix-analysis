@@ -92,6 +92,7 @@ This project explores salary distribution across job categories, cities, seniori
 
 Explore the interactive dashboard here: [View Report](https://app.powerbi.com/view?r=eyJrIjoiMGQ3ZDQzODMtNjFiYy00M2U4LTg5ZWEtNWJiYzk0Y2ZjMzg2IiwidCI6IjBjODJhNjJmLTIzYzMtNGUwZS05MzRlLTRhOGMxZmRkYjQ2OSJ9)
 
+(images/pivots/dasboard%201.PNG)
 Features include:
 - Filters by city, category, seniority, and remote status  
 - Insight cards summarizing key findings  
